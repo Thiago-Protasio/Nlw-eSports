@@ -1,5 +1,9 @@
 # Nlw-sports
-Essa é uma API Rest que permite que usuários realizempedidos de entrega e que entregadores cadastradosfaçam entregas disponíveis na plataforma.Foi criado utilizando: Node.js, TypeScript, Express, jwt,PostgreSQL e Prisma.io como ORM.
+Essa aplicação permite que usuários encontrem pessoas
+para jogarem juntas. Tem uma interface web construída
+com React e um app mobile construído com React
+Native. O back-end foi construído utilizando Node,
+TypeScript, SQL e Prisma.
 
 ## Interface Web
 ![interface web](https://github.com/Thiago-Protasio/Nlw-eSports/blob/36a091debaaa4ba5f379f34a74b1b0e0ba274372/readmeWeb.jpg)
